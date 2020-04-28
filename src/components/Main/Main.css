@@ -1,0 +1,16 @@
+.main {
+  display: flex;
+  width: 90%;
+  justify-content: space-around;
+}
+
+.blue{
+  background-color: #35daff;
+}
+.red {
+  background-color: #ff4955;
+}
+
+.green{
+  background-color: #7fff00;
+}

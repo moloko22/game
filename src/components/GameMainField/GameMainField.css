@@ -1,0 +1,29 @@
+
+
+
+
+.game_main_field_5{
+  display: flex;
+  flex-direction: row;
+  width: 260px;
+  flex-wrap: wrap;
+}
+.game_main_field_10{
+  display: flex;
+  flex-direction: row;
+  width: 520px;
+  flex-wrap: wrap;
+}
+.game_main_field_15{
+  display: flex;
+  flex-direction: row;
+  width: 790px;
+  flex-wrap: wrap;
+}
+
+.game_main_field_5 div, .game_main_field_10 div, .game_main_field_15 div{
+  display: flex;
+  width: 50px;
+  min-height: 50px;
+  border: 1px solid silver;
+}
